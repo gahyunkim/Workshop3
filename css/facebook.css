@@ -55,6 +55,7 @@ an element with class fb-trending */
 .fb-trending {
 	border-bottom: 1px solid lightgrey;
 	margin-bottom: 5px;
+<<<<<<< HEAD
 }
 
 .green{
@@ -94,3 +95,6 @@ an element with class fb-trending */
 .fb-status-update .panel-body {
 	padding-bottom: 5px;
 }
+=======
+}
+>>>>>>> 62483b6f81ac73f31fc03000539a82e2ac208f26
