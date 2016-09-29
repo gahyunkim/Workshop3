@@ -1,0 +1,55 @@
+body {
+	padding-top: 60px;
+}
+
+.navbar-transparent button {
+	background-color: transparent;
+	border: none;
+	color: #000;
+}
+
+.inline {
+   display:inline-block;
+}
+
+.twitter-stats-update {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top:  1px solid lightgray;
+}
+
+.reactions {
+	padding-top: 15px;
+}
+
+.transparent button{
+	background-color: transparent;
+	border: none;
+}
+
+.tweet {
+	padding-top:10px;
+}
+
+.twitter-feed .icon-check-sign {
+	color: #8BE7FF;
+	/* Sets padding at 2px on all sides at once */
+	padding: 2px;
+	/* Sets the border radius to 2px for each corner. */
+	border-radius: 2px;
+}
+
+.navbar {
+	background-color: #ffffff;
+}
+
+.navbar-tweet button {
+	padding-left: -10px;
+	background-color: #007FF5;
+	border: none;
+	color: #fff;
+}
+
+
+
+
